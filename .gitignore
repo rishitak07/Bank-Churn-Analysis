@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db
